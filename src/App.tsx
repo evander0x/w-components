@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Button, Layout, Typography, Space, Card, theme, Divider } from "antd";
 import Counter from "./components/Counter";
 import "./App.css";
-import RichTextEditor from "./components/ Teatarea";
+import RichTextEditor from "./components/Teatarea";
 
 const { Header, Content, Footer } = Layout;
 
